@@ -73,3 +73,7 @@ footer{
 }
   
 
+/*Gradiente para Branch 1*/
+body{
+  background-image: linear-gradient(to top, rgb(196, 233, 250), rgb(149, 191, 212));
+}
