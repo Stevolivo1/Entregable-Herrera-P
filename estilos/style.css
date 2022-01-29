@@ -77,3 +77,13 @@ footer{
 body{
   background-image: linear-gradient(to top, rgb(196, 233, 250), rgb(149, 191, 212));
 }
+/*Box con transcision  se lo aplique a los links para las secciones de la pagina*/
+.box{
+  border-radius: 8px;
+  height: 40px;
+  width: 80px;
+  margin: 60px auto;
+}
+.box:hover{
+  transform: scale(2);
+}
